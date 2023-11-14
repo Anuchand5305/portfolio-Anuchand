@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("rohanportfolioimg.png") no-repeat center;
+    background: url("https://github.com/Anuchand5305/portfolio-Anuchand/blob/main/portfolio%20dsa%20monday/WhatsApp%20Image%202023-11-14%20at%205.53.59%20PM.jpeg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
